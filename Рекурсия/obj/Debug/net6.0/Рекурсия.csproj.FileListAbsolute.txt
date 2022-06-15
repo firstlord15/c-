@@ -1,0 +1,15 @@
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\Рекурсия.exe
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\Рекурсия.deps.json
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\Рекурсия.runtimeconfig.json
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\Рекурсия.dll
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\ref\Рекурсия.dll
+D:\Codes\C#\Рекурсия\bin\Debug\net6.0\Рекурсия.pdb
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.AssemblyReference.cache
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfoInputs.cache
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.AssemblyInfo.cs
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.dll
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\ref\Рекурсия.dll
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.pdb
+D:\Codes\C#\Рекурсия\obj\Debug\net6.0\Рекурсия.genruntimeconfig.cache

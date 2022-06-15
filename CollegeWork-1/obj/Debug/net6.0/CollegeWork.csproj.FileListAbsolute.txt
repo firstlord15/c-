@@ -1,0 +1,15 @@
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\CollegeWork.exe
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\CollegeWork.deps.json
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\CollegeWork.runtimeconfig.json
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\CollegeWork.dll
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\ref\CollegeWork.dll
+D:\Codes\C#\CollegeWork\bin\Debug\net6.0\CollegeWork.pdb
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.csproj.AssemblyReference.cache
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.AssemblyInfoInputs.cache
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.AssemblyInfo.cs
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.csproj.CoreCompileInputs.cache
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.dll
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\ref\CollegeWork.dll
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.pdb
+D:\Codes\C#\CollegeWork\obj\Debug\net6.0\CollegeWork.genruntimeconfig.cache

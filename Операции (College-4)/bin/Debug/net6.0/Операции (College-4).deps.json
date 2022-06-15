@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Операции (College-4)/1.0.0": {
+        "runtime": {
+          "Операции (College-4).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Операции (College-4)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

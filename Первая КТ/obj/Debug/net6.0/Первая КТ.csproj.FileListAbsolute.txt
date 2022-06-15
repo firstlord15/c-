@@ -1,0 +1,15 @@
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\Первая КТ.exe
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\Первая КТ.deps.json
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\Первая КТ.runtimeconfig.json
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\Первая КТ.dll
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\ref\Первая КТ.dll
+D:\Codes\C#\Первая КТ\bin\Debug\net6.0\Первая КТ.pdb
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.csproj.AssemblyReference.cache
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.AssemblyInfoInputs.cache
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.AssemblyInfo.cs
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.dll
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\ref\Первая КТ.dll
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.pdb
+D:\Codes\C#\Первая КТ\obj\Debug\net6.0\Первая КТ.genruntimeconfig.cache

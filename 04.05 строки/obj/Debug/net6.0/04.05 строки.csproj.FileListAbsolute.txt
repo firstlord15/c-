@@ -1,0 +1,15 @@
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\04.05 строки.exe
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\04.05 строки.deps.json
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\04.05 строки.runtimeconfig.json
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\04.05 строки.dll
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\ref\04.05 строки.dll
+D:\Codes\C#\04.05 строки\bin\Debug\net6.0\04.05 строки.pdb
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.csproj.AssemblyReference.cache
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.AssemblyInfoInputs.cache
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.AssemblyInfo.cs
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.csproj.CoreCompileInputs.cache
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.dll
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\ref\04.05 строки.dll
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.pdb
+D:\Codes\C#\04.05 строки\obj\Debug\net6.0\04.05 строки.genruntimeconfig.cache

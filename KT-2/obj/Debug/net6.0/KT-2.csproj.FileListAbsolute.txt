@@ -1,0 +1,15 @@
+D:\Codes\C#\KT-2\bin\Debug\net6.0\KT-2.exe
+D:\Codes\C#\KT-2\bin\Debug\net6.0\KT-2.deps.json
+D:\Codes\C#\KT-2\bin\Debug\net6.0\KT-2.runtimeconfig.json
+D:\Codes\C#\KT-2\bin\Debug\net6.0\KT-2.dll
+D:\Codes\C#\KT-2\bin\Debug\net6.0\ref\KT-2.dll
+D:\Codes\C#\KT-2\bin\Debug\net6.0\KT-2.pdb
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.csproj.AssemblyReference.cache
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.AssemblyInfoInputs.cache
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.AssemblyInfo.cs
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.csproj.CoreCompileInputs.cache
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.dll
+D:\Codes\C#\KT-2\obj\Debug\net6.0\ref\KT-2.dll
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.pdb
+D:\Codes\C#\KT-2\obj\Debug\net6.0\KT-2.genruntimeconfig.cache

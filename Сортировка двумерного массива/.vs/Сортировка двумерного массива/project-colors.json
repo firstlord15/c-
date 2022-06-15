@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e573322-c5b9-4792-b80e-bec11707e9ee": {
+      "ProjectGuid": "9e573322-c5b9-4792-b80e-bec11707e9ee",
+      "DisplayName": "Сортировка двумерного массива",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

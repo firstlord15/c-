@@ -1,0 +1,15 @@
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\HelpToOgi.exe
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\HelpToOgi.deps.json
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\HelpToOgi.runtimeconfig.json
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\HelpToOgi.dll
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\ref\HelpToOgi.dll
+D:\Codes\C#\HelpToOgi\bin\Debug\net6.0\HelpToOgi.pdb
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.csproj.AssemblyReference.cache
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.AssemblyInfoInputs.cache
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.AssemblyInfo.cs
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.csproj.CoreCompileInputs.cache
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.dll
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\ref\HelpToOgi.dll
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.pdb
+D:\Codes\C#\HelpToOgi\obj\Debug\net6.0\HelpToOgi.genruntimeconfig.cache

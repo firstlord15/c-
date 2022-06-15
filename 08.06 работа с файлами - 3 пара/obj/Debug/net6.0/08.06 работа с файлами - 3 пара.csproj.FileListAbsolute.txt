@@ -1,0 +1,15 @@
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.csproj.AssemblyReference.cache
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.AssemblyInfoInputs.cache
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.AssemblyInfo.cs
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.csproj.CoreCompileInputs.cache
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\08.06 работа с файлами - 3 пара.exe
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\08.06 работа с файлами - 3 пара.deps.json
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\08.06 работа с файлами - 3 пара.runtimeconfig.json
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\08.06 работа с файлами - 3 пара.dll
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\ref\08.06 работа с файлами - 3 пара.dll
+D:\Codes\C#\08.06 работа с файлами - 3 пара\bin\Debug\net6.0\08.06 работа с файлами - 3 пара.pdb
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.dll
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\ref\08.06 работа с файлами - 3 пара.dll
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.pdb
+D:\Codes\C#\08.06 работа с файлами - 3 пара\obj\Debug\net6.0\08.06 работа с файлами - 3 пара.genruntimeconfig.cache

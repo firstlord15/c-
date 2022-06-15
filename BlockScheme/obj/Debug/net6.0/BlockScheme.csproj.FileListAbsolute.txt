@@ -1,0 +1,15 @@
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\BlockScheme.exe
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\BlockScheme.deps.json
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\BlockScheme.runtimeconfig.json
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\BlockScheme.dll
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\ref\BlockScheme.dll
+D:\Codes\C#\BlockScheme\bin\Debug\net6.0\BlockScheme.pdb
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.csproj.AssemblyReference.cache
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.AssemblyInfoInputs.cache
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.AssemblyInfo.cs
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.csproj.CoreCompileInputs.cache
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.dll
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\ref\BlockScheme.dll
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.pdb
+D:\Codes\C#\BlockScheme\obj\Debug\net6.0\BlockScheme.genruntimeconfig.cache

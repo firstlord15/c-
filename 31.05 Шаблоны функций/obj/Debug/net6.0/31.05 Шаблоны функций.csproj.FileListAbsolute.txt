@@ -1,0 +1,15 @@
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.csproj.AssemblyReference.cache
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.AssemblyInfoInputs.cache
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.AssemblyInfo.cs
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.csproj.CoreCompileInputs.cache
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\31.05 Шаблоны функций.exe
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\31.05 Шаблоны функций.deps.json
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\31.05 Шаблоны функций.runtimeconfig.json
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\31.05 Шаблоны функций.dll
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\ref\31.05 Шаблоны функций.dll
+D:\Codes\C#\31.05 Шаблоны функций\bin\Debug\net6.0\31.05 Шаблоны функций.pdb
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.dll
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\ref\31.05 Шаблоны функций.dll
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.pdb
+D:\Codes\C#\31.05 Шаблоны функций\obj\Debug\net6.0\31.05 Шаблоны функций.genruntimeconfig.cache

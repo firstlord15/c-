@@ -1,0 +1,15 @@
+D:\Codes\C#\27.04\bin\Debug\net6.0\27.04.exe
+D:\Codes\C#\27.04\bin\Debug\net6.0\27.04.deps.json
+D:\Codes\C#\27.04\bin\Debug\net6.0\27.04.runtimeconfig.json
+D:\Codes\C#\27.04\bin\Debug\net6.0\27.04.dll
+D:\Codes\C#\27.04\bin\Debug\net6.0\ref\27.04.dll
+D:\Codes\C#\27.04\bin\Debug\net6.0\27.04.pdb
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.csproj.AssemblyReference.cache
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.AssemblyInfoInputs.cache
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.AssemblyInfo.cs
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.csproj.CoreCompileInputs.cache
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.dll
+D:\Codes\C#\27.04\obj\Debug\net6.0\ref\27.04.dll
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.pdb
+D:\Codes\C#\27.04\obj\Debug\net6.0\27.04.genruntimeconfig.cache

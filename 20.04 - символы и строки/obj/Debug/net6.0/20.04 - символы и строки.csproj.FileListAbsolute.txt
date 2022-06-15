@@ -1,0 +1,15 @@
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\20.04 - символы и строки.exe
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\20.04 - символы и строки.deps.json
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\20.04 - символы и строки.runtimeconfig.json
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\20.04 - символы и строки.dll
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\ref\20.04 - символы и строки.dll
+D:\Codes\C#\20.04 - символы и строки\bin\Debug\net6.0\20.04 - символы и строки.pdb
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.csproj.AssemblyReference.cache
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.AssemblyInfoInputs.cache
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.AssemblyInfo.cs
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.csproj.CoreCompileInputs.cache
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.dll
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\ref\20.04 - символы и строки.dll
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.pdb
+D:\Codes\C#\20.04 - символы и строки\obj\Debug\net6.0\20.04 - символы и строки.genruntimeconfig.cache
