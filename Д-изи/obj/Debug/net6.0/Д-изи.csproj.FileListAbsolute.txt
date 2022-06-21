@@ -1,0 +1,15 @@
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\Д-изи.exe
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\Д-изи.deps.json
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\Д-изи.runtimeconfig.json
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\Д-изи.dll
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\ref\Д-изи.dll
+D:\Codes\C#\Д-изи\bin\Debug\net6.0\Д-изи.pdb
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.csproj.AssemblyReference.cache
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.AssemblyInfoInputs.cache
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.AssemblyInfo.cs
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.dll
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\ref\Д-изи.dll
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.pdb
+D:\Codes\C#\Д-изи\obj\Debug\net6.0\Д-изи.genruntimeconfig.cache
