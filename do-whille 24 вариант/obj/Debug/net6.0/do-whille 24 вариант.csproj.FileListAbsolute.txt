@@ -1,0 +1,15 @@
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\do-whille 24 вариант.exe
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\do-whille 24 вариант.deps.json
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\do-whille 24 вариант.runtimeconfig.json
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\do-whille 24 вариант.dll
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\ref\do-whille 24 вариант.dll
+D:\Codes\C#\do-whille 24 вариант\bin\Debug\net6.0\do-whille 24 вариант.pdb
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.csproj.AssemblyReference.cache
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.AssemblyInfoInputs.cache
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.AssemblyInfo.cs
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.csproj.CoreCompileInputs.cache
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.dll
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\ref\do-whille 24 вариант.dll
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.pdb
+D:\Codes\C#\do-whille 24 вариант\obj\Debug\net6.0\do-whille 24 вариант.genruntimeconfig.cache

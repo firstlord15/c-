@@ -1,0 +1,15 @@
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\Операции (College-4).exe
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\Операции (College-4).deps.json
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\Операции (College-4).runtimeconfig.json
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\Операции (College-4).dll
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\ref\Операции (College-4).dll
+D:\Codes\C#\Операции (College-4)\bin\Debug\net6.0\Операции (College-4).pdb
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).csproj.AssemblyReference.cache
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).AssemblyInfoInputs.cache
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).AssemblyInfo.cs
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).csproj.CoreCompileInputs.cache
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).dll
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\ref\Операции (College-4).dll
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).pdb
+D:\Codes\C#\Операции (College-4)\obj\Debug\net6.0\Операции (College-4).genruntimeconfig.cache

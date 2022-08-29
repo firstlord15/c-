@@ -1,0 +1,15 @@
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\Dad's_Programm.exe
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\Dad's_Programm.deps.json
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\Dad's_Programm.runtimeconfig.json
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\Dad's_Programm.dll
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\ref\Dad's_Programm.dll
+D:\Codes\C#\Dad's_Programm\bin\Debug\net6.0\Dad's_Programm.pdb
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.csproj.AssemblyReference.cache
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.AssemblyInfoInputs.cache
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.AssemblyInfo.cs
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.dll
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\ref\Dad's_Programm.dll
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.pdb
+D:\Codes\C#\Dad's_Programm\obj\Debug\net6.0\Dad's_Programm.genruntimeconfig.cache

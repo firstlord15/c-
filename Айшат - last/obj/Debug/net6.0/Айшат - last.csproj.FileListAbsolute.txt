@@ -1,0 +1,15 @@
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\Айшат - last.exe
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\Айшат - last.deps.json
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\Айшат - last.runtimeconfig.json
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\Айшат - last.dll
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\ref\Айшат - last.dll
+D:\Codes\C#\Айшат - last\bin\Debug\net6.0\Айшат - last.pdb
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.csproj.AssemblyReference.cache
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.AssemblyInfoInputs.cache
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.AssemblyInfo.cs
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.dll
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\ref\Айшат - last.dll
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.pdb
+D:\Codes\C#\Айшат - last\obj\Debug\net6.0\Айшат - last.genruntimeconfig.cache

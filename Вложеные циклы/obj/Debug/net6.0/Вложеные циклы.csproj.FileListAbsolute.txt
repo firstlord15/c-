@@ -1,0 +1,15 @@
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\Вложеные циклы.exe
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\Вложеные циклы.deps.json
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\Вложеные циклы.runtimeconfig.json
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\Вложеные циклы.dll
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\ref\Вложеные циклы.dll
+D:\Codes\C#\Вложеные циклы\bin\Debug\net6.0\Вложеные циклы.pdb
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.csproj.AssemblyReference.cache
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.AssemblyInfoInputs.cache
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.AssemblyInfo.cs
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.dll
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\ref\Вложеные циклы.dll
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.pdb
+D:\Codes\C#\Вложеные циклы\obj\Debug\net6.0\Вложеные циклы.genruntimeconfig.cache

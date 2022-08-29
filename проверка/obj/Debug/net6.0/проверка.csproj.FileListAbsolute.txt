@@ -1,0 +1,15 @@
+D:\Codes\C#\проверка\bin\Debug\net6.0\проверка.exe
+D:\Codes\C#\проверка\bin\Debug\net6.0\проверка.deps.json
+D:\Codes\C#\проверка\bin\Debug\net6.0\проверка.runtimeconfig.json
+D:\Codes\C#\проверка\bin\Debug\net6.0\проверка.dll
+D:\Codes\C#\проверка\bin\Debug\net6.0\ref\проверка.dll
+D:\Codes\C#\проверка\bin\Debug\net6.0\проверка.pdb
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.csproj.AssemblyReference.cache
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.AssemblyInfoInputs.cache
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.AssemblyInfo.cs
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.csproj.CoreCompileInputs.cache
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.dll
+D:\Codes\C#\проверка\obj\Debug\net6.0\ref\проверка.dll
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.pdb
+D:\Codes\C#\проверка\obj\Debug\net6.0\проверка.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Codes\C#\Д - last\bin\Debug\net6.0\Д - last.exe
+D:\Codes\C#\Д - last\bin\Debug\net6.0\Д - last.deps.json
+D:\Codes\C#\Д - last\bin\Debug\net6.0\Д - last.runtimeconfig.json
+D:\Codes\C#\Д - last\bin\Debug\net6.0\Д - last.dll
+D:\Codes\C#\Д - last\bin\Debug\net6.0\ref\Д - last.dll
+D:\Codes\C#\Д - last\bin\Debug\net6.0\Д - last.pdb
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.csproj.AssemblyReference.cache
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.AssemblyInfoInputs.cache
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.AssemblyInfo.cs
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.dll
+D:\Codes\C#\Д - last\obj\Debug\net6.0\ref\Д - last.dll
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.pdb
+D:\Codes\C#\Д - last\obj\Debug\net6.0\Д - last.genruntimeconfig.cache

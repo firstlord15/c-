@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Сортировка двумерного массива/1.0.0": {
+        "runtime": {
+          "Сортировка двумерного массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Сортировка двумерного массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

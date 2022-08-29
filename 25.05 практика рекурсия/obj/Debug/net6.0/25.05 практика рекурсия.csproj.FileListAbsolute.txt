@@ -1,0 +1,15 @@
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\25.05 практика рекурсия.exe
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\25.05 практика рекурсия.deps.json
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\25.05 практика рекурсия.runtimeconfig.json
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\25.05 практика рекурсия.dll
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\ref\25.05 практика рекурсия.dll
+D:\Codes\C#\25.05 практика рекурсия\bin\Debug\net6.0\25.05 практика рекурсия.pdb
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.csproj.AssemblyReference.cache
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.AssemblyInfoInputs.cache
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.AssemblyInfo.cs
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.csproj.CoreCompileInputs.cache
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.dll
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\ref\25.05 практика рекурсия.dll
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.pdb
+D:\Codes\C#\25.05 практика рекурсия\obj\Debug\net6.0\25.05 практика рекурсия.genruntimeconfig.cache

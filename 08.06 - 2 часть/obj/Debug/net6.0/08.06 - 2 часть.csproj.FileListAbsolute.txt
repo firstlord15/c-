@@ -1,0 +1,15 @@
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\08.06 - 2 часть.exe
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\08.06 - 2 часть.deps.json
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\08.06 - 2 часть.runtimeconfig.json
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\08.06 - 2 часть.dll
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\ref\08.06 - 2 часть.dll
+D:\Codes\C#\08.06 - 2 часть\bin\Debug\net6.0\08.06 - 2 часть.pdb
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.csproj.AssemblyReference.cache
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.AssemblyInfoInputs.cache
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.AssemblyInfo.cs
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.csproj.CoreCompileInputs.cache
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.dll
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\ref\08.06 - 2 часть.dll
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.pdb
+D:\Codes\C#\08.06 - 2 часть\obj\Debug\net6.0\08.06 - 2 часть.genruntimeconfig.cache

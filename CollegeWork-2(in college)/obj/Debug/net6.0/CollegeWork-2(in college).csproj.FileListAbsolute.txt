@@ -1,0 +1,15 @@
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).csproj.AssemblyReference.cache
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).AssemblyInfoInputs.cache
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).AssemblyInfo.cs
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).csproj.CoreCompileInputs.cache
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\CollegeWork-2(in college).exe
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\CollegeWork-2(in college).deps.json
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\CollegeWork-2(in college).runtimeconfig.json
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\CollegeWork-2(in college).dll
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\ref\CollegeWork-2(in college).dll
+D:\Codes\C#\CollegeWork-2(in college)\bin\Debug\net6.0\CollegeWork-2(in college).pdb
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).dll
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\ref\CollegeWork-2(in college).dll
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).pdb
+D:\Codes\C#\CollegeWork-2(in college)\obj\Debug\net6.0\CollegeWork-2(in college).genruntimeconfig.cache

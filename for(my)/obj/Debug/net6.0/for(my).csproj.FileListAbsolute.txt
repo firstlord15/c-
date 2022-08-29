@@ -1,0 +1,15 @@
+D:\Codes\C#\for(my)\bin\Debug\net6.0\for(my).exe
+D:\Codes\C#\for(my)\bin\Debug\net6.0\for(my).deps.json
+D:\Codes\C#\for(my)\bin\Debug\net6.0\for(my).runtimeconfig.json
+D:\Codes\C#\for(my)\bin\Debug\net6.0\for(my).dll
+D:\Codes\C#\for(my)\bin\Debug\net6.0\ref\for(my).dll
+D:\Codes\C#\for(my)\bin\Debug\net6.0\for(my).pdb
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).csproj.AssemblyReference.cache
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).AssemblyInfoInputs.cache
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).AssemblyInfo.cs
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).csproj.CoreCompileInputs.cache
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).dll
+D:\Codes\C#\for(my)\obj\Debug\net6.0\ref\for(my).dll
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).pdb
+D:\Codes\C#\for(my)\obj\Debug\net6.0\for(my).genruntimeconfig.cache

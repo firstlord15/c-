@@ -1,0 +1,15 @@
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\Двумерные_массивы.exe
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\Двумерные_массивы.deps.json
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\Двумерные_массивы.runtimeconfig.json
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\Двумерные_массивы.dll
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\ref\Двумерные_массивы.dll
+D:\Codes\C#\Двумерные_массивы\bin\Debug\net6.0\Двумерные_массивы.pdb
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.csproj.AssemblyReference.cache
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.AssemblyInfoInputs.cache
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.AssemblyInfo.cs
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.dll
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\ref\Двумерные_массивы.dll
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.pdb
+D:\Codes\C#\Двумерные_массивы\obj\Debug\net6.0\Двумерные_массивы.genruntimeconfig.cache

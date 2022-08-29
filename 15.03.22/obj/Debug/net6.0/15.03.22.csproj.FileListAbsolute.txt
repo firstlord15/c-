@@ -1,0 +1,15 @@
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\15.03.22.exe
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\15.03.22.deps.json
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\15.03.22.runtimeconfig.json
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\15.03.22.dll
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\ref\15.03.22.dll
+D:\Codes\C#\15.03.22\bin\Debug\net6.0\15.03.22.pdb
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.csproj.AssemblyReference.cache
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.AssemblyInfoInputs.cache
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.AssemblyInfo.cs
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.csproj.CoreCompileInputs.cache
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.dll
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\ref\15.03.22.dll
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.pdb
+D:\Codes\C#\15.03.22\obj\Debug\net6.0\15.03.22.genruntimeconfig.cache

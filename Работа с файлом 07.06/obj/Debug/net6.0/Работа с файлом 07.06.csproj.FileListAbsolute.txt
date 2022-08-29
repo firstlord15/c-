@@ -1,0 +1,15 @@
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\Работа с файлом 07.06.exe
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\Работа с файлом 07.06.deps.json
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\Работа с файлом 07.06.runtimeconfig.json
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\Работа с файлом 07.06.dll
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\ref\Работа с файлом 07.06.dll
+D:\Codes\C#\Работа с файлом 07.06\bin\Debug\net6.0\Работа с файлом 07.06.pdb
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.csproj.AssemblyReference.cache
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.AssemblyInfoInputs.cache
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.AssemblyInfo.cs
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.dll
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\ref\Работа с файлом 07.06.dll
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.pdb
+D:\Codes\C#\Работа с файлом 07.06\obj\Debug\net6.0\Работа с файлом 07.06.genruntimeconfig.cache

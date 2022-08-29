@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4cdeb285-518a-417f-965c-90a180de0a84": {
+      "ProjectGuid": "4cdeb285-518a-417f-965c-90a180de0a84",
+      "DisplayName": "Первая КТ",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

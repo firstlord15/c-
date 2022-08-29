@@ -1,0 +1,15 @@
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\Сортировка двумерного массива.exe
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\Сортировка двумерного массива.deps.json
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\Сортировка двумерного массива.runtimeconfig.json
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\Сортировка двумерного массива.dll
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\ref\Сортировка двумерного массива.dll
+D:\Codes\C#\Сортировка двумерного массива\bin\Debug\net6.0\Сортировка двумерного массива.pdb
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.csproj.AssemblyReference.cache
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.AssemblyInfoInputs.cache
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.AssemblyInfo.cs
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.dll
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\ref\Сортировка двумерного массива.dll
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.pdb
+D:\Codes\C#\Сортировка двумерного массива\obj\Debug\net6.0\Сортировка двумерного массива.genruntimeconfig.cache

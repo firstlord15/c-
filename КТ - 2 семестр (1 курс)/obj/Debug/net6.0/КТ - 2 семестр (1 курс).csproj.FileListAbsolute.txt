@@ -1,0 +1,15 @@
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\КТ - 2 семестр (1 курс).exe
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\КТ - 2 семестр (1 курс).deps.json
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\КТ - 2 семестр (1 курс).runtimeconfig.json
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\КТ - 2 семестр (1 курс).dll
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\ref\КТ - 2 семестр (1 курс).dll
+D:\Codes\C#\КТ - 2 семестр (1 курс)\bin\Debug\net6.0\КТ - 2 семестр (1 курс).pdb
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).csproj.AssemblyReference.cache
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).AssemblyInfoInputs.cache
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).AssemblyInfo.cs
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).csproj.CoreCompileInputs.cache
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).dll
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\ref\КТ - 2 семестр (1 курс).dll
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).pdb
+D:\Codes\C#\КТ - 2 семестр (1 курс)\obj\Debug\net6.0\КТ - 2 семестр (1 курс).genruntimeconfig.cache

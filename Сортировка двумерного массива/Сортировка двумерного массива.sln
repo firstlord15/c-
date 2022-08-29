@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка двумерного массива", "Сортировка двумерного массива.csproj", "{9E573322-C5B9-4792-B80E-BEC11707E9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E573322-C5B9-4792-B80E-BEC11707E9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E573322-C5B9-4792-B80E-BEC11707E9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E573322-C5B9-4792-B80E-BEC11707E9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E573322-C5B9-4792-B80E-BEC11707E9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C57DCCB-BF9C-44FF-B95D-8ACCF7D232F7}
+	EndGlobalSection
+EndGlobal

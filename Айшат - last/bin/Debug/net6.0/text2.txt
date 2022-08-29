@@ -1,0 +1,5 @@
+String[0] = Lorem
+String[4] = Amet,
+String[6] = Adipiscing
+String[10] = Eiusmod
+String[12] = Incididunt

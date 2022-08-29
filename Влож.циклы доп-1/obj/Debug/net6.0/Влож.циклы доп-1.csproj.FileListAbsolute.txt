@@ -1,0 +1,15 @@
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\Влож.циклы доп-1.exe
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\Влож.циклы доп-1.deps.json
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\Влож.циклы доп-1.runtimeconfig.json
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\Влож.циклы доп-1.dll
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\ref\Влож.циклы доп-1.dll
+D:\Codes\C#\Влож.циклы доп-1\bin\Debug\net6.0\Влож.циклы доп-1.pdb
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.csproj.AssemblyReference.cache
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.AssemblyInfoInputs.cache
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.AssemblyInfo.cs
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.dll
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\ref\Влож.циклы доп-1.dll
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.pdb
+D:\Codes\C#\Влож.циклы доп-1\obj\Debug\net6.0\Влож.циклы доп-1.genruntimeconfig.cache

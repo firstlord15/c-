@@ -1,0 +1,30 @@
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\CollegeWork-2.exe
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\CollegeWork-2.deps.json
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\CollegeWork-2.runtimeconfig.json
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\ref\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2\bin\Debug\net6.0\CollegeWork-2.pdb
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.csproj.AssemblyReference.cache
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.AssemblyInfoInputs.cache
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.AssemblyInfo.cs
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.csproj.CoreCompileInputs.cache
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\ref\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.pdb
+D:\Codes\C#\CollegeWork-2\obj\Debug\net6.0\CollegeWork-2.genruntimeconfig.cache
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\CollegeWork-2.exe
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\CollegeWork-2.deps.json
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\CollegeWork-2.runtimeconfig.json
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\ref\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2(in home)\bin\Debug\net6.0\CollegeWork-2.pdb
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.csproj.AssemblyReference.cache
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.AssemblyInfoInputs.cache
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.AssemblyInfo.cs
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.csproj.CoreCompileInputs.cache
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\ref\CollegeWork-2.dll
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.pdb
+D:\Codes\C#\CollegeWork-2(in home)\obj\Debug\net6.0\CollegeWork-2.genruntimeconfig.cache

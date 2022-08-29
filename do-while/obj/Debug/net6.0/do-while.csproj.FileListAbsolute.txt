@@ -1,0 +1,15 @@
+D:\Codes\C#\do-while\bin\Debug\net6.0\do-while.exe
+D:\Codes\C#\do-while\bin\Debug\net6.0\do-while.deps.json
+D:\Codes\C#\do-while\bin\Debug\net6.0\do-while.runtimeconfig.json
+D:\Codes\C#\do-while\bin\Debug\net6.0\do-while.dll
+D:\Codes\C#\do-while\bin\Debug\net6.0\ref\do-while.dll
+D:\Codes\C#\do-while\bin\Debug\net6.0\do-while.pdb
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.csproj.AssemblyReference.cache
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.AssemblyInfoInputs.cache
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.AssemblyInfo.cs
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.csproj.CoreCompileInputs.cache
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.dll
+D:\Codes\C#\do-while\obj\Debug\net6.0\ref\do-while.dll
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.pdb
+D:\Codes\C#\do-while\obj\Debug\net6.0\do-while.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "31.05 Шаблоны функций/1.0.0": {
+        "runtime": {
+          "31.05 Шаблоны функций.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "31.05 Шаблоны функций/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\Д-норм.exe
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\Д-норм.deps.json
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\Д-норм.runtimeconfig.json
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\Д-норм.dll
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\ref\Д-норм.dll
+D:\Codes\C#\Д-норм\bin\Debug\net6.0\Д-норм.pdb
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.csproj.AssemblyReference.cache
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.AssemblyInfoInputs.cache
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.AssemblyInfo.cs
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.dll
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\ref\Д-норм.dll
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.pdb
+D:\Codes\C#\Д-норм\obj\Debug\net6.0\Д-норм.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Codes\C#\Repeat\bin\Debug\net6.0\Repeat.exe
+D:\Codes\C#\Repeat\bin\Debug\net6.0\Repeat.deps.json
+D:\Codes\C#\Repeat\bin\Debug\net6.0\Repeat.runtimeconfig.json
+D:\Codes\C#\Repeat\bin\Debug\net6.0\Repeat.dll
+D:\Codes\C#\Repeat\bin\Debug\net6.0\ref\Repeat.dll
+D:\Codes\C#\Repeat\bin\Debug\net6.0\Repeat.pdb
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.csproj.AssemblyReference.cache
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.AssemblyInfoInputs.cache
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.AssemblyInfo.cs
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.csproj.CoreCompileInputs.cache
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.dll
+D:\Codes\C#\Repeat\obj\Debug\net6.0\ref\Repeat.dll
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.pdb
+D:\Codes\C#\Repeat\obj\Debug\net6.0\Repeat.genruntimeconfig.cache

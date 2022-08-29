@@ -1,0 +1,15 @@
+D:\Codes\C#\College-6\bin\Debug\net6.0\College-6.exe
+D:\Codes\C#\College-6\bin\Debug\net6.0\College-6.deps.json
+D:\Codes\C#\College-6\bin\Debug\net6.0\College-6.runtimeconfig.json
+D:\Codes\C#\College-6\bin\Debug\net6.0\College-6.dll
+D:\Codes\C#\College-6\bin\Debug\net6.0\ref\College-6.dll
+D:\Codes\C#\College-6\bin\Debug\net6.0\College-6.pdb
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.csproj.AssemblyReference.cache
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.AssemblyInfoInputs.cache
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.AssemblyInfo.cs
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.csproj.CoreCompileInputs.cache
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.dll
+D:\Codes\C#\College-6\obj\Debug\net6.0\ref\College-6.dll
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.pdb
+D:\Codes\C#\College-6\obj\Debug\net6.0\College-6.genruntimeconfig.cache
